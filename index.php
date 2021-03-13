@@ -45,8 +45,8 @@
                         <p class="ciudad"><i class="fa fa-map-marker" aria-hidden="true"></i> Guadalajara, MX</p>
                     </div>
 
-                    <h1 class="nombre-sitio">GdlWebCamp</h1>
-                    <p class="slogan">La mejor conferencia de <span>diseño web</span></p>
+                    <h1 class="nombre-sitio">AnalisTech</h1>
+                    <p class="slogan">Los mwjorems sevicios<span>diseño web</span></p>
                 </div>
                 <!--.informacion-evento-->
 
